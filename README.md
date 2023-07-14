@@ -9,5 +9,5 @@ Also this server is bind to my [vim-config](https://github.com/praveenmahasena64
 
 ## for dev purposes
 ```sh
-https://github.com/praveenmahasena647/client-bgs.git . && make run.
+https://github.com/praveenmahasena647/client-bgs.git . && make run
 ```
